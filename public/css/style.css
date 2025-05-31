@@ -1,0 +1,20 @@
+/*------------------Custom Fonts----------------*/
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+/*--------------------Root----------------------*/
+
+
+/*-------------Universal Selectors---------------*/
+
+p, a, li, ul, h1, h2, h3, h4, h5 {
+    font-family: "Work Sans", sans-serif;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+
+/*------------------Navigation Bar----------------*/
+
